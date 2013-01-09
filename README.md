@@ -3,7 +3,7 @@ CLProgressIndeterminateView
 
 Indeterminate Progress View for iOS. Designed after the indeterminate bar seen in Windows Phone, and more recently Windows 8.
 
-Created by Benjamin G. Deckys on 28 December, 2012.
+Created by @cocotutch on 28 December, 2012.
 
 Last modified 8 January, 2013
   
