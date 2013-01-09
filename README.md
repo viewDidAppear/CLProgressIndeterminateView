@@ -11,3 +11,5 @@ Permission is granted to use this code free of charge in any iOS project,
 With credit to myself - @cocotutch.
 
 Any modifications, improvements etc, should be merged with the source GitHub.
+
+https://raw.github.com/cocotuch/CLProgressIndeterminateView/master/IndeterminateWindowsPhoneProgressBar.png
