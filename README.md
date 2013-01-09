@@ -6,11 +6,17 @@ Indeterminate Progress View for iOS. Designed after the indeterminate bar seen i
 Created by @cocotutch on 28 December, 2012.
 
 Last modified 8 January, 2013
+
+License:
+===========================
   
 Permission is granted to use this code free of charge in any iOS project,
-With credit to myself - @cocotutch.
+With credit to myself - @cocotutch. Either In-App or by other-means.
 
 Any modifications, improvements etc, should be merged with the source GitHub.
+
+Screenshot:
+===========================
 
 ![](/cocotutch/CLProgressIndeterminateView/raw/master/IndeterminateWindowsPhoneProgressBar.png)
 
@@ -19,7 +25,8 @@ His project has been abandoned as it was rendered unneccessary by an update to S
 
 Reference: [Jeff Wilcox - PerformanceProgressBar](http://www.jeff.wilcox.name/2010/08/performanceprogressbar/)
 
-How to use:
+Usage:
+===========================
 
 ```objective-c
     if(!indeterminate) { 
@@ -54,7 +61,7 @@ or
 ``` 
 the reference when you're done, or when the view controller will be removed from the superview/is no longer needed.
 
-Any changes made to these files should be merged here. This code is available to use in any iOS project with credit to myself - the creator either In-App or by other-means (iTunes Store description for example).
+Any changes made to these files should be merged here. This code is available to use in any iOS project with credit to myself.
 
 Regards,
 
