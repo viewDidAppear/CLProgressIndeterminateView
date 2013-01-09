@@ -12,4 +12,4 @@ With credit to myself - @cocotutch.
 
 Any modifications, improvements etc, should be merged with the source GitHub.
 
-https://raw.github.com/cocotuch/CLProgressIndeterminateView/master/IndeterminateWindowsPhoneProgressBar.png
+[[IndeterminateWindowsPhoneProgressBar.png]]
