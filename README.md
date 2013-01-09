@@ -1,10 +1,10 @@
 CLProgressIndeterminateView
 ===========================
 
-Indeterminate Progress View for iOS in the Metro UI. As seen in Windows Phone 7, 8 and Windows 8.
+Indeterminate Progress View for iOS. Designed after the indeterminate bar seen in Windows Phone, and more recently Windows 8.
 
-BGIndeterminateProgressBar.h & .m
 Created by Benjamin G. Deckys on 28 December, 2012.
+
 Last modified 8 January, 2013
   
 Permission is granted to use this code free of charge in any iOS project,
@@ -14,8 +14,8 @@ Any modifications, improvements etc, should be merged with the source GitHub.
 
 ![](/cocotutch/CLProgressIndeterminateView/raw/master/IndeterminateWindowsPhoneProgressBar.png)
 
-This drop-in Metro-style Indeterminate Progress Indicator for iOS is based on Jeff Wilcox' open-source "PerformanceProgressBar" for Windows Phone's own SDK.
-His project is now abandoned as Microsoft began distributing an indicator that used the compositor (animator) thread, as opposed to the main CPU thread.
+This drop-in Metro-style Indeterminate Progress Indicator for iOS is based on Jeff Wilcox' open-source "PerformanceProgressBar" for Windows Phone apps.
+His project has been abandoned as it was rendered unneccessary by an update to Silverlight SDK.
 
 Reference: [Jeff Wilcox - PerformanceProgressBar](http://www.jeff.wilcox.name/2010/08/performanceprogressbar/)
 
